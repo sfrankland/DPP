@@ -15,7 +15,7 @@ which combinatorial codes are constructed by re-using
 components, a DPP will naturally favor the combination
 of previously un-used components.
 
-We suggest that this bias toward the selection of volume-maximizing
+We suggest that a bias toward the selection of volume-maximizing
 combinations may exist to promote the efficient retrieval
 of individuals from memory. In support of this, we show
 the same algorithm implements efficient ”hashing”,
