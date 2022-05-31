@@ -1,4 +1,4 @@
-# DPP
+# DPP CogSci 2020 - ReadMe
 
 Matlab code for Frankland & Cohen (2020) - Determinantal Point Processes for Memory and Structured Inference
 
